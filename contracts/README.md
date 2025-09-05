@@ -1,0 +1,1 @@
+该项目是一个NFT项目，现在想需要开发几个合约功能。1.NFT铸造与所有权，用户可以进行对NFT进行铸造，技术上使用pinata的IPFS进行存储，然后使用ERC721合约进行NFT的铸造，并使用ERC721Enumerable合约进行NFT的查询。2.NFT的转移，用户可以进行NFT的转移，使用ERC721合约进行NFT的转移。3.NFT的查询，用户可以进行NFT的查询，使用ERC721Enumerable合约进行NFT的查询。
